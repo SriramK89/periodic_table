@@ -107,7 +107,7 @@ PeriodicTable::Application.routes.draw do
   match '/dysprosium', to: "elements#Dy"
   match '/holmium', to: "elements#Ho"
   match '/erbium', to: "elements#Er"
-  match '/thulium', to: "elements#Em"
+  match '/thulium', to: "elements#Tm"
   match '/ytterbium', to: "elements#Yb"
   match '/lutetium', to: "elements#Lu"
 
